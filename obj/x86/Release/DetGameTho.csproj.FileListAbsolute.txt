@@ -1,0 +1,4 @@
+C:\Users\hromas\Documents\Visual Studio 2010\Projects\DetGameTho\DetGameTho\bin\Release\DetGameTho.exe
+C:\Users\hromas\Documents\Visual Studio 2010\Projects\DetGameTho\DetGameTho\bin\Release\DetGameTho.pdb
+C:\Users\hromas\Documents\Visual Studio 2010\Projects\DetGameTho\DetGameTho\obj\x86\Release\DetGameTho.exe
+C:\Users\hromas\Documents\Visual Studio 2010\Projects\DetGameTho\DetGameTho\obj\x86\Release\DetGameTho.pdb

@@ -1,0 +1,34 @@
+﻿Ihr kommt an eine Waldlichtung an. Hinter Euch sind die weiten Felder des Landes und vor Euch ein dichter Wald.
+Ihr steht in einem Wald und seid von Laubbäumen umgeben.
+Ihr steht in einem Wald und seid von Fichten umgeben.
+Ihr steht in einem Wald. Viele verschiedene Baumarten umgeben euch.
+Ihr steht in einem Wald und seid von Eichen umgeben.
+Vor Euch ist ein großer See inmitten des Waldes. Ihr befindet euch am Ufer und könnt die Waldlichtung vor dem See gut erblicken.
+Vor Euch ist ein ruhiger Bach inmitten des Waldes. Der Bach fließt Berg ab und ist zu Fuß überquerbar.
+Vor Euch ist ein breiter Fluss inmitten des Waldes. Das Ufer ist reich mit Büschen geziert.
+Ihr befindet euch in einem Walddorf mit einigen Holzhütten. Hier leben nur Bauern oder Arme.
+Ihr seid an einem Außenposten angekommen.
+Ihr seid an einem Außenposten inmitten eines Waldes angekommen.
+Ihr seid an einen Außenposten vor einer großen Stadt angekommen.
+Ihr seid an einem Außenposten inmitten eines Feldes angekommen.
+Ihr befindet Euch auf einem langen und schmalen Feldweg. Links und Rechts sind nur Weiten von Felder zu sehen.
+Ihr steht inmitten eines Weizenfeldes.
+Ihr steht inmitten eines Maisfeldes.
+Ihr seid an einer Farm angekommen.
+Ihr seid an einen Bauernhof angekommen. Ihr könnt die Tiere bereits von weiten hören.
+Ihr steht inmitten eines Gerstenfeldes.
+Ihr seid an einer Flussbrücke angekommen. Hier könnt Ihr den Fluss überqueren.
+Ihr seid an einer Flussbrücke inmitten des Waldes angekommen. Hier könnt Ihr den Fluss überqueren.
+Ihr seid an einen Höhleneingang angekommen. Ihr könnt jedoch nichts von draussen erkennen.
+Hier befindet sich eine verlassene Waldhöhle.
+Ihr steht inmitten eines Hügels. Rund um Euch sind die weiten Felder des Landes.
+Ihr habt einen großen Berg bestiegen. Von hier könnt ihr in jedes Tal blicken.
+Eine Feldlandschaft liegt vor Euch. Durch diese führt ein kleiner Pfad.
+Ihr befindet Euch in einer Schlucht und seid von Steinhängen umgeben.
+Ihr seid im Tal angekommen. Riesige Berglandschaften liegen um Euch.
+Ihr befindet euch an einem Berggipfel. Ihr spürt die dünne und frische Luft.
+Vor Euch ist ein kleines Waldkloster. Hier war jedoch schon lange niemand.
+Vor Euch ist ein kleines Feldklsoter. Hier war jedoch schon lange niemand.
+Ihr kommt an eine Windmühle inmitten eines Feldes. Ihr hört wie die riesigen Räder sich durch die Luft bewegen.
+Ihr kommt an einen Holzdamm.
+Ihr kommt an eine Wassermühle. Ihr könnt einige Bäcker erblicken die das Weizen mählen.

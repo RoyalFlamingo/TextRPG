@@ -1,0 +1,4 @@
+C:\Users\hromas\Documents\Visual Studio 2010\Projects\TextRPG\TextRPG\obj\x86\Debug\DetGameTho.exe
+C:\Users\hromas\Documents\Visual Studio 2010\Projects\TextRPG\TextRPG\obj\x86\Debug\DetGameTho.pdb
+C:\Users\hromas\Documents\Visual Studio 2010\Projects\TextRPG\TextRPG\bin\Debug\DetGameTho.exe
+C:\Users\hromas\Documents\Visual Studio 2010\Projects\TextRPG\TextRPG\bin\Debug\DetGameTho.pdb

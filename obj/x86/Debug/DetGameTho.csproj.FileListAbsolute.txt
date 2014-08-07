@@ -1,0 +1,10 @@
+C:\Users\hromas\Documents\Visual Studio 2010\Projects\DetGameTho\DetGameTho\bin\Debug\DetGameTho.exe
+C:\Users\hromas\Documents\Visual Studio 2010\Projects\DetGameTho\DetGameTho\bin\Debug\DetGameTho.pdb
+C:\Users\hromas\Documents\Visual Studio 2010\Projects\DetGameTho\DetGameTho\obj\x86\Debug\DetGameTho.csprojResolveAssemblyReference.cache
+C:\Users\hromas\Documents\Visual Studio 2010\Projects\DetGameTho\DetGameTho\obj\x86\Debug\DetGameTho.exe
+C:\Users\hromas\Documents\Visual Studio 2010\Projects\DetGameTho\DetGameTho\obj\x86\Debug\DetGameTho.pdb
+C:\Users\Xreal\Documents\Visual Studio 2010\Projects\DetGameTho\DetGameTho\obj\x86\Debug\DetGameTho.exe
+C:\Users\Xreal\Documents\Visual Studio 2010\Projects\DetGameTho\DetGameTho\obj\x86\Debug\DetGameTho.pdb
+C:\Users\Xreal\Documents\Visual Studio 2010\Projects\DetGameTho\DetGameTho\obj\x86\Debug\DetGameTho.csprojResolveAssemblyReference.cache
+C:\Users\Xreal\Documents\Visual Studio 2010\Projects\DetGameTho\DetGameTho\bin\Debug\DetGameTho.exe
+C:\Users\Xreal\Documents\Visual Studio 2010\Projects\DetGameTho\DetGameTho\bin\Debug\DetGameTho.pdb
